@@ -6,15 +6,16 @@
 * Le JS ne comporte aucune erreur : Tester avec jshint
 * Le HTML passe la validation W3C
 * Le CSS passe la validation W3C
-* Une Favicon est présente
+* Une Favicon est présente, [Utiliser Favicon Generator](https://realfavicongenerator.net/)
 * Les scripts sont situés en bas de page
-* Une page 404 est présente
+* Une page 404 est présente et fonctionne
 * Les scripts JS et le CSS sont minifiés
 * Les formulaires de contact sont fonctionnels et communiquent avec une bonne adresse mail
-* Si une carte est présente, la clé d'API est spécifique au projet. (Gmaps / Mapbox)
+* Si une carte est présente, la clé d'API est spécifique au projet et est restreinte à l'url de prod. (Gmaps / Mapbox)
 * Un code de tracking est présent
-* Les attributes ALT des images sont renseignées et liées au back-office
-
+* Les attributs ALT des images sont renseignées et liées au back-office
+* Les attributs width et height des images sont renseignées (si possible)
+* WordPress - Décocher "Ne pas indexer ce site" dans les options
 
 
 ## Checklist Performance :
