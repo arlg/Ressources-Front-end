@@ -1,5 +1,8 @@
 # Ressources JS
 
+## Apprendre le JS
+* Videos tuto de [Grafikart](https://www.grafikart.fr/formations/debuter-javascript)
+
 ## Vanilla
 * [You might not need jQuery](http://youmightnotneedjquery.com)
 
