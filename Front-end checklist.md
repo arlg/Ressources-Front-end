@@ -33,3 +33,8 @@
 * Les typos intègrent seulement les glyphes nécessaires au langage du site (configuration Font Squirrel par exemple)
 * Précharger les typos les plus utilisées (Voir page #Performance)
 * Lazyload des images off-screen
+
+## Autres listes :
+* Front-end performance checklists avec liens pour tester : [thedaviddias](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+* Web Application performance Checklist : [antarestupin](https://github.com/antarestupin/performance-checklist)
+* Checklist checklist : [huyingjie](https://github.com/huyingjie/Checklist-Checklist)
