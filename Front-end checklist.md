@@ -1,6 +1,7 @@
 #Front-end checklist
 
 ## Checklist de fin de projet :
+
 * Les images décoratives sont compressées : [Image Optim](https://imageoptim.com/fr), [JPEGmini](https://www.jpegmini.com/)
 * Les images et pictos sont intégrés dans des sprites
 * Les attributs width et height des images sont renseignées (si possible)
@@ -29,12 +30,14 @@
 
 
 ## Checklist Performance :
+
 * On ne charge pas trop de typo non-système, on préfère les héberger sur notre serveur.
 * Les typos intègrent seulement les glyphes nécessaires au langage du site (configuration Font Squirrel par exemple)
 * Précharger les typos les plus utilisées (Voir page #Performance)
 * Lazyload des images off-screen
 
 ## Autres listes :
+
 * Front-end performance checklists avec liens pour tester : [thedaviddias](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 * Web Application performance Checklist : [antarestupin](https://github.com/antarestupin/performance-checklist)
 * Checklist checklist : [huyingjie](https://github.com/huyingjie/Checklist-Checklist)
