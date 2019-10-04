@@ -12,6 +12,7 @@
 
 * Le HTML de **chaque page** passe la validation [W3C](https://validator.w3.org/) (ou s'en rapproche le plus)
 * Le CSS passe la validation [W3C](https://jigsaw.w3.org/css-validator/) (ou s'en rapproche le plus)
+* les polices custom sont bien celles chargées en CSS et non celles présentes sur la machine. (Désactiver les fontes système pour le test)
 
 * Une Favicon est présente, [Utiliser Favicon Generator](https://realfavicongenerator.net/)
 * Une image de partage Facebook / Twitter et les metas opengraph sont présentes.
