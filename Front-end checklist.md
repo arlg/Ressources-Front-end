@@ -29,6 +29,9 @@
 
 * Un message s'affiche pour les navigateurs trop anciens, par exemple [BrowserUpdate](https://browser-update.org/)
 
+* Tester sur tous les navigateurs du périmètre
+* Tester sur Mobiles véritables (iOS + Android)
+
 * -> Lancer un audit Google Chrome et corriger si nécessaire 🔨
 
 
