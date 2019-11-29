@@ -2,9 +2,9 @@
 
 ## Checklist de fin de projet :
 
-* Les images décoratives sont compressées : [Image Optim](https://imageoptim.com/fr), [JPEGmini](https://www.jpegmini.com/)
-* Les images et pictos sont intégrés dans des sprites
-* Les attributs width et height des images sont renseignées (si possible)
+* Les images décoratives sont compressées, utiliser : [Image Optim](https://imageoptim.com/fr), [JPEGmini](https://www.jpegmini.com/)
+* Les images et pictos sont intégrés dans des sprites (ou une font-icon [Fontello](http://fontello.com/))
+* Les attributs width et height des images sont renseignées. Cela évite la saute de la page au Lazy-load.
 * Les attributs ALT des images sont renseignées et liées au back-office.
 
 * Le JS ne comporte aucune erreur : Tester avec jshint
@@ -16,10 +16,12 @@
 
 * Une Favicon est présente, [Utiliser Favicon Generator](https://realfavicongenerator.net/)
 * Une image de partage Facebook / Twitter et les metas opengraph sont présentes.
+* La meta-description est présente
 * Une page 404 est présente et fonctionne
 * WordPress - Décocher "Ne pas indexer ce site" dans les options
+* WordPress - Désactiver le plug-in Maintenance
 
-* Les scripts sont situés en bas de page
+* Les scripts sont situés en bas de page en attribut "defer"
 * Les scripts JS et le CSS sont minifiés
 * Les formulaires de contact sont fonctionnels et communiquent avec une bonne adresse mail
 * Si une carte est présente, la clé d'API est spécifique au projet et est restreinte à l'url de prod. (Gmaps / Mapbox)
