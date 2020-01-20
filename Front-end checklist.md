@@ -32,7 +32,10 @@
 * Tester sur tous les navigateurs du périmètre
 * Tester sur Mobiles véritables (iOS + Android)
 
+## Après mise en ligne ☄️ :
+
 * -> Lancer un audit Google Chrome et corriger si nécessaire 🔨
+* Lancer des audits SEO via [Checkbot](https://www.checkbot.io/) et corriger 🔨
 
 
 ## Checklist Performance :
